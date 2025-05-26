@@ -667,7 +667,7 @@ namespace SCMApp {
       Console.Write("Please change active branch on remote to the branch with with the new name ");
       Console.WriteLine("i.e., on GitHub site.");
       Console.WriteLine("GitHub URL to set active default branch looks like:");
-      Console.WriteLine("  https://github.com/user_name/repository_name/settings/branches");
+      Console.WriteLine("  https://github.com/user_name/repository_name/settings");
       Console.WriteLine();
       Console.WriteLine("Done with the change yet? Please press Y if affirmative.");
 
